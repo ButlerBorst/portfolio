@@ -1,5 +1,3 @@
-
-
 .menu-btn {
   position: absolute;
   z-index: 3;
@@ -286,4 +284,10 @@ main {
   .projects {
     grid-template-columns: repeat(1, 1fr); }
   .about-info .portrait {
-    margin: auto; } }
+    margin: auto; }
+  .menu-branding {
+    margin-bottom: px; }
+  .menu-nav {
+    margin-top: 0px; }
+    .menu-nav .nav-item {
+      margin-left: 135px; } }
